@@ -35,9 +35,9 @@ Once the resources are allocated and the program is compiled, you can run the Ma
 ./mandelbrot 1000 1000 -2.0 -1.5 1.0 1.5 255
 ```
 This command generates a 1000x1000 pixel image of the Mandelbrot set with the specified bounds:
--1000x1000: Resolution of the output image.
--2.0 -1.5 1.0 1.5: Coordinates of the region of the complex plane to be computed.
--255: Maximum number of iterations for each point.
+  - 1000x1000: Resolution of the output image.
+  - 2.0 -1.5 1.0 1.5: Coordinates of the region of the complex plane to be computed.
+  - 255: Maximum number of iterations for each point.
 
 ## Weak and Strong Scaling
 You can perform both weak scaling and strong scaling tests to evaluate the parallel performance of the Mandelbrot implementation.
