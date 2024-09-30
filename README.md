@@ -15,15 +15,9 @@ This folder contains two parallel implementations:
 - **Quicksort**: A parallel implementation of the Quicksort algorithm using MPI for fast data sorting.
 - **Mandelbrot**: A parallel implementation of the Mandelbrot set computation, leveraging parallel computing to generate fractals efficiently.
 
-### Contents:
-- **Quicksort**: Efficient sorting algorithm implemented with parallel processing.
-- **Mandelbrot**: Fractal generation using parallel computation for improved performance.
-
 ## Usage
 
 To run the programs or tests within each assignment, navigate to the respective folder and follow the instructions in the provided source files.
-
-Make sure to have the necessary tools (e.g., OpenMP, MPI) installed to compile and execute the programs.
 
 ## License
 
