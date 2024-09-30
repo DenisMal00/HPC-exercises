@@ -39,6 +39,8 @@ This command generates a 1000x1000 pixel image of the Mandelbrot set with the sp
   - 2.0 -1.5 1.0 1.5: Coordinates of the region of the complex plane to be computed.
   - 255: Maximum number of iterations for each point.
 
+![Example](mandelbrot.pgm)
+
 ## Weak and Strong Scaling
 You can perform both weak scaling and strong scaling tests to evaluate the parallel performance of the Mandelbrot implementation.
 
