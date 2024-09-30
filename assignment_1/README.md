@@ -32,7 +32,7 @@ If necessary, you can make the script executable by running:
 ```bash
 chmod +x run_osu_benchmarks.sh
 ```
-**Then run the script
+Then run the script
 ```bash
 ./run_osu_benchmarks.sh
 ```
