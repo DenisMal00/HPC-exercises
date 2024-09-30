@@ -2,11 +2,6 @@
 
 This repository contains assignments for the High-Performance Computing (HPC) course. It includes various tests and implementations related to parallel computing using different tools and libraries. Below is an overview of the assignments and their contents.
 
-## Table of Contents
-
-- [Assignment 1](#assignment-1)
-- [Assignment 2](#assignment-2)
-
 ## Assignment 1
 
 This folder contains performance tests using the **OSU Micro-Benchmarks** (OSU). These tests are designed to measure performance and communication overhead in parallel systems.
