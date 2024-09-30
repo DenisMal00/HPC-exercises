@@ -25,9 +25,8 @@ Before running the benchmarks, you need to allocate the required resources on th
 
 ```bash
 salloc -p THIN --nodes 2 --tasks-per-node=24 --time=00:30:00
-### Steps to Run the Benchmarks
 ```
-### Run the script to collect data
+### Steps to Run the Benchmarks
 **Ensure the script is executable**:
 If necessary, you can make the script executable by running:
 ```bash
