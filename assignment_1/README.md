@@ -16,7 +16,7 @@ You can run all the OSU Micro-Benchmarks using the provided script `run_osu_benc
 ### Prerequisites
 
 Make sure you have:
-- **MPI Library** (OpenMPI, MPICH, or any compatible MPI implementation).
+- **MPI Library** (OpenMPI, MPICH, or any compatible MPI implementation): ```bash module load openMPI/4.1.6/gnu/14.2.1```
 - Access to the **Orfeo HPC** cluster.
 
 ### Allocating Resources on Orfeo
