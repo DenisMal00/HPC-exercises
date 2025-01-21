@@ -13,7 +13,7 @@ This folder contains performance tests using the **OSU Micro-Benchmarks** (OSU).
 
 This folder contains two parallel implementations:
 - **Quicksort**: A parallel implementation of the Quicksort algorithm using MPI for fast data sorting.
-- **Mandelbrot**: A parallel implementation of the Mandelbrot set computation, leveraging parallel computing to generate fractals efficiently.
+- **Mandelbrot**: A parallel implementation of the Mandelbrot set computation using OPENMP, leveraging parallel computing to generate fractals efficiently.
 
 ## Usage
 
