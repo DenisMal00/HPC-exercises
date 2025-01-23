@@ -49,6 +49,7 @@ In weak scaling, the problem size increases with the number of cores used.
 To run the weak scaling test, use the script weak_scaling.sh:
 
 ```bash
+chmod +x weak_scaling.sh
 ./weak_scaling.sh
 ```
 
@@ -57,5 +58,6 @@ In strong scaling, the problem size remains fixed while the number of cores incr
 To run the strong scaling test, use the script strong_scaling.sh:
 
 ```bash
+chmod +x strong_scaling.sh 
 ./strong_scaling.sh
 ```
