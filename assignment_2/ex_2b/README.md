@@ -44,9 +44,9 @@ You can run the weak and strong scaling tests using the provided scripts:
 
 - **Weak Scaling**: To run the weak scaling tests, use the script `weak_scaling.sh`:
   ```bash
-  ./weak_scaling.sh
+  ./weak_scaling.sh <total_size>
   ```
 - **Strong Scaling**: To run the storng scaling tests, use the script `strong_scaling.sh`:
   ```bash
-  ./strong_scaling.sh
+  ./strong_scaling.sh <base_size>
   ```
