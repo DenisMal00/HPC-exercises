@@ -11,7 +11,7 @@ Quicksort is a highly efficient sorting algorithm based on the divide-and-conque
 ### Prerequisites
 
 Ensure that you have the following:
-- **MPI Library** (OpenMPI, MPICH, or another compatible MPI implementation): ```bash module load openMPI/4.1.6/gnu/14.2.1```
+- **MPI Library** (OpenMPI, MPICH, or another compatible MPI implementation): ``` module load openMPI/4.1.6/gnu/14.2.1```
 - Access to the **Orfeo HPC** cluster.
 
 ### Allocating Resources on Orfeo
